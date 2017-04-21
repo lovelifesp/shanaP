@@ -1,0 +1,99 @@
+body {
+background-image: url("http://www.designlovefest.com/wp-content/uploads/downloads/2016/09/DLF_Desktops_sleepyeyes.jpg");
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+
+font-family: 'Oswald', sans-serif;
+font-size: 18px;
+text-align: center;
+}
+
+header{
+  padding:20px;
+  /*font-family:'Permanent Marker', cursive;*/
+  font-size: 20px;
+  text-align: center;
+  text-decoration: none;
+  letter-spacing: 10px;
+  /*border:5px double black;*/
+}
+
+
+form,h1,input{
+font-family:'Permanent Marker', cursive;
+font-size: 20px;
+text-align: center;}
+
+h1{
+  letter-spacing: 54px;
+  font-size: 30px;
+}
+
+
+
+#one{
+  Padding:20px;
+  border:10px solid black;
+  margin:50px;
+}
+
+#two{
+  padding:20px;
+  font-size: 20px;
+}
+
+ span > a{
+  padding-top: 50px;
+  margin: auto;
+  background-color: none;
+}
+
+
+/*#three{
+  Padding:5px;
+  border:5px double black;
+  margin:20px;
+  Width:10;
+}*/
+
+
+.linkedin img,.email img,.resume img {
+  display: inline-block;
+    width: 200px;
+    height: 120px;
+    padding:20px;
+    /*float: center;*/
+    justify-content: space-around
+}
+
+
+nav,a {
+    text-decoration: none;
+}
+
+
+a:hover {
+    color:LightSalmon;
+    /*background-color: rgba(5, 5, 5, 0.55);*/
+    background-color:rgba(247, 180, 144, 0.48);
+}
+
+i{
+  color:black;
+
+}
+
+a{
+  color:black;
+  background-color:rgba(5, 5, 5, 0.55);
+  text-decoration: none;
+}
+
+
+a:visited {
+    /*color: Gainsboro;*/
+    color:white;
+}
+Contact GitHub API Training Shop Blog About
+© 2017 GitHub, Inc. Terms Privacy Security S

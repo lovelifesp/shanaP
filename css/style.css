@@ -1,0 +1,88 @@
+body {
+background-image: url("http://www.designlovefest.com/wp-content/uploads/downloads/2016/09/DLF_Desktops_blackwaves.jpg");
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+
+font-family: 'Oswald', sans-serif;
+font-size: 18px;
+text-align: center;}
+
+}
+
+
+h1,h3,h4{
+font-family:'Permanent Marker', cursive;
+font-size: 30px;
+text-align: center;}
+
+
+header{
+  padding:20px;
+  /*font-family:'Permanent Marker', cursive;*/
+  font-size: 20px;
+  text-align: center;
+  text-decoration: none;
+  letter-spacing: 10px;
+  /*background-color:rgba(5, 5, 5, 0.55);*/
+  /*border:5px double black;*/
+}
+
+#one{
+  padding:40px;
+  border:10px solid black;
+  margin:30px;
+}
+
+.hello{
+  font-family:'Permanent Marker', cursive;
+  /*text-decoration: underline;*/
+  text-decoration-color: black;
+  letter-spacing: 54px;
+  font-size: 30px;
+}
+
+img{
+  padding: 20px;
+  border-radius: 200px;
+  width:200px;
+  opacity:0.7;
+}
+
+span{
+  font-family:'Permanent Marker', cursive;
+  letter-spacing: 7px;
+}
+
+
+
+nav,a {
+    color:black;
+    text-decoration: none;
+}
+
+
+a:hover {
+    color:LightSalmon;
+    background-color:rgba(247, 180, 144, 0.48);
+}
+
+
+a{
+  color:black;
+  background-color:rgba(5, 5, 5, 0.55);
+  text-decoration: none;
+
+}
+
+
+a:visited {
+    /*color: Gainsboro;*/
+    color:white;
+}
+
+
+img:hover{
+    opacity: 1.0;
+    width: 220px;
+}
